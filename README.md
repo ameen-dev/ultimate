@@ -45,7 +45,7 @@ Let me transfer you to the first available agent.
 I have added comments throughout the project wherever necessary and Javadocs at the beginning of each functions to specify about parameters, output and what the function actually does.
 
 ## Exception handling
-Basic exception handling has been done. Custom defined exception could be added in futur if needed.
+Basic exception handling has been done. Custom defined exception could be added in future if needed.
 
-##Constants
+## Constants
 I have included a constants file which has a confidence threshold value of 0.5. This means that the chatbot will repond the user with the intent appropriate reply if and only if the confidence level is more than 0.5 and this value is configurable.
